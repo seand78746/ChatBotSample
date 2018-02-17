@@ -1,0 +1,37 @@
+[error] C:\Users\EnderLLAMA\IdeaProjects\ChatBotSample\project\Dependencies.scala:6:25: value %% is not a member of String
+[error]     "com.typesafe.akka" %% "akka-http"            % akkaHttpVersion,
+[error]                         ^
+[error] C:\Users\EnderLLAMA\IdeaProjects\ChatBotSample\project\Dependencies.scala:7:25: value %% is not a member of String
+[error]     "com.typesafe.akka" %% "akka-http-spray-json" % akkaHttpVersion,
+[error]                         ^
+[error] C:\Users\EnderLLAMA\IdeaProjects\ChatBotSample\project\Dependencies.scala:8:25: value %% is not a member of String
+[error]     "com.typesafe.akka" %% "akka-http-xml"        % akkaHttpVersion,
+[error]                         ^
+[error] C:\Users\EnderLLAMA\IdeaProjects\ChatBotSample\project\Dependencies.scala:9:25: value %% is not a member of String
+[error]     "com.typesafe.akka" %% "akka-stream"          % akkaVersion,
+[error]                         ^
+[error] C:\Users\EnderLLAMA\IdeaProjects\ChatBotSample\project\Dependencies.scala:11:25: value %% is not a member of String
+[error]     "com.typesafe.akka" %% "akka-http-testkit"    % akkaHttpVersion % Test,
+[error]                         ^
+[error] C:\Users\EnderLLAMA\IdeaProjects\ChatBotSample\project\Dependencies.scala:11:71: not found: value Test
+[error]     "com.typesafe.akka" %% "akka-http-testkit"    % akkaHttpVersion % Test,
+[error]                                                                       ^
+[error] C:\Users\EnderLLAMA\IdeaProjects\ChatBotSample\project\Dependencies.scala:12:25: value %% is not a member of String
+[error]     "com.typesafe.akka" %% "akka-testkit"         % akkaVersion     % Test,
+[error]                         ^
+[error] C:\Users\EnderLLAMA\IdeaProjects\ChatBotSample\project\Dependencies.scala:12:71: not found: value Test
+[error]     "com.typesafe.akka" %% "akka-testkit"         % akkaVersion     % Test,
+[error]                                                                       ^
+[error] C:\Users\EnderLLAMA\IdeaProjects\ChatBotSample\project\Dependencies.scala:13:25: value %% is not a member of String
+[error]     "com.typesafe.akka" %% "akka-stream-testkit"  % akkaVersion     % Test,
+[error]                         ^
+[error] C:\Users\EnderLLAMA\IdeaProjects\ChatBotSample\project\Dependencies.scala:13:71: not found: value Test
+[error]     "com.typesafe.akka" %% "akka-stream-testkit"  % akkaVersion     % Test,
+[error]                                                                       ^
+[error] C:\Users\EnderLLAMA\IdeaProjects\ChatBotSample\project\Dependencies.scala:14:25: value %% is not a member of String
+[error]     "org.scalatest"     %% "scalatest"            % "3.0.1"         % Test
+[error]                         ^
+[error] C:\Users\EnderLLAMA\IdeaProjects\ChatBotSample\project\Dependencies.scala:14:71: not found: value Test
+[error]     "org.scalatest"     %% "scalatest"            % "3.0.1"         % Test
+[error]                                                                       ^
+[error] 12 errors found
